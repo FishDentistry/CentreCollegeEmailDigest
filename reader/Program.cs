@@ -99,7 +99,7 @@ namespace reader
     {
         public static void Main(string[] args)
         {
-            RSSReader myFeedReader = new RSSReader("https://sites.centre.edu/nextnews?module=filter_blog_author&key=acf003b76b364121a840c026f5d170af&msreader_rss_feeds=view&args%5Bblog_id%5D=101","placehold","placehold","user","pass");
+            RSSReader myFeedReader = new RSSReader("placeholderURL","placehold","placehold","user","pass");
             myFeedReader.readFeed();
             myFeedReader.sendMail("Centre College Weekly Digest");
 

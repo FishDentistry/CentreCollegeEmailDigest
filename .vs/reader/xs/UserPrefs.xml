@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.ItemProperties.reader PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="reader/Program.cs">
     <Files>
-      <File FileName="reader/Program.cs" Line="104" Column="67" />
+      <File FileName="reader/Program.cs" Line="102" Column="53" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +10,7 @@
           <Node name="reader" expanded="True">
             <Node name="reader" expanded="True">
               <Node name="References" expanded="True" />
-              <Node name="Packages" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
