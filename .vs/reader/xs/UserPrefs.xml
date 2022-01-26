@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{089C1C1A-E01C-4FA5-8523-D6047A2E1158}|Default">
+  <MonoDevelop.Ide.ItemProperties.reader PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="reader/Program.cs">
+    <Files>
+      <File FileName="reader/Program.cs" Line="104" Column="67" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="reader" expanded="True">
+            <Node name="reader" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Packages" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
